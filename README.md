@@ -75,4 +75,4 @@ Results
 
 2,512 transactions analyzed
 126 anomalies detected (5% contamination threshold)
-Top signals: high login attempts, large amounts relative to balance, unusual transaction duration
+Top signals: high login attempts, large amounts relative to balance, unusual transaction duration.
