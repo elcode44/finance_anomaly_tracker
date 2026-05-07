@@ -1,6 +1,8 @@
 Personal Finance Tracker with Anomaly Detection
 A full-stack personal finance dashboard that visualizes spending trends and uses machine learning to flag suspicious transactions.
 
+![Dashboard](screenshots/dashboard.png)
+
 Features
 
 Spending Dashboard — monthly spending trends and category breakdowns with interactive charts
